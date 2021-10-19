@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#f9f9f9",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../images/log.png",
+      }
+    }
+    style={
+      Object {
+        "height": 100,
+        "marginBottom": 30,
+        "marginTop": -30,
+        "width": 100,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#E8E8E8",
+        "borderRadius": 15,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Employee ID"
+      placeholderTextColor="#003f5c"
+      style={
+        Object {
+          "color": "#000000",
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 15,
+          "padding": 10,
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#E8E8E8",
+        "borderRadius": 15,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Email Address"
+      placeholderTextColor="#003f5c"
+      style={
+        Object {
+          "color": "#000000",
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 15,
+          "padding": 10,
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#E8E8E8",
+        "borderRadius": 15,
+        "height": 45,
+        "marginBottom": 20,
+        "width": "70%",
+      }
+    }
+  >
+    <TextInput
+      onChangeText={[Function]}
+      placeholder="Password"
+      placeholderTextColor="#003f5c"
+      secureTextEntry={true}
+      style={
+        Object {
+          "color": "#000000",
+          "flex": 1,
+          "height": 50,
+          "marginLeft": 15,
+          "padding": 10,
+        }
+      }
+      value=""
+    />
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    nativeID="animatedComponent"
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFC400",
+        "borderRadius": 25,
+        "elevation": 2,
+        "height": 45,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": "60%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000000",
+          "fontSize": 15,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Log In
+    </Text>
+  </View>
+</View>
+`;
