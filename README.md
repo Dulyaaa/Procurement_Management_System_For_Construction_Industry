@@ -1,6 +1,9 @@
 # 🏗 CSSE - Procurement Management System For Construction Industry
 
-This is my individual part of the Case Study implementation of the 3rd Year 2nd Semester - Case Studies in Software Engineering(CSSE) module. Here we try to solve the difficulties faced in the procurement procedures in the construction industry. As a solution we have created a Web application and a mobile application, whereas this is a the Mobile application, implemented with React-Native, NodeJS, ExpressJS and MongoDB.
+This is my individual part of the Case Study implementation of the 3rd Year 2nd Semester - Case Studies in Software Engineering (CSSE) module. Here we try to solve the difficulties faced in the procurement procedures in the construction industry. As a solution we have created a Web application and a mobile application, whereas this is a the `Mobile Application`, implemented with React-Native, NodeJS, ExpressJS and MongoDB.
+
+**Here I have implemented the part:** 
+Once a Site Manager add a purchase order, it should be sent for Procurement Department for approval. Once it's approved they make a quotation and send it to the Supplier. Supplier can view those quotations, make a invoice and send back it to Procurement Department. Those invoices view and find the best one by Procurement Department and change the status accordingly. If the status is approved the Supplier can add delivery details. Those details can be viewed by Site Manager and then he/she can make a relevent payment.
 
 ## Language 
 
@@ -14,7 +17,7 @@ This is my individual part of the Case Study implementation of the 3rd Year 2nd 
 * ![NodeJs](https://img.shields.io/badge/BackEnd-Node_JS-green) ![ExpressJs](https://img.shields.io/badge/BackEnd-Express_JS-green)
 * ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 
-### Procurement Management System For Construction Industry (My Contribution):
+### My Contribution:
 * Login to the app as a `Site Manager` or `Supplier`
 * Register to the app as a `Site Manager` or `Supplier`
 * Create an Order by Site Manager 
@@ -26,15 +29,15 @@ This is my individual part of the Case Study implementation of the 3rd Year 2nd 
 * View created invoices
 * Add delivery details
 
-<!-- #### Sample user interfaces of woring project:
+#### Sample user interfaces of woring project:
 
-| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/96396036-ced13e80-11e3-11eb-8659-d1fe565099b3.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/96954886-fd1b8a80-1511-11eb-992a-2105756ecd3d.png">
-|:--:|:--:|
-| *`figure 1.1: All order details`* | *`figure 1.2: Add new order`* |
+| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/138205597-08911193-b42d-430e-9972-b1d9e8c4fa5d.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205745-3b9478a2-1242-4a65-9c78-72a175000335.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205897-e245c865-499d-458b-8550-a3b859a0cf5c.png">
+|:--:|:--:|:--:|
+| *`figure 1.1: Splash Screen`* | *`figure 1.2: Register Now Screen`* | *`figure 1.3: Log In Screen`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96954945-1e7c7680-1512-11eb-8369-622ff0b76bc6.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96954986-3522cd80-1512-11eb-91b5-ae2d0e2ec5bf.png">
-|:--:|:--:|
-| *`figure 1.3: Delete and gnerate report of order`* | *`figure 1.4: Assign avehicle for each order`* |
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138206605-9f06f8be-f3ad-47e0-8fdc-bc0118cc4312.png">| <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138206741-da620513-9a27-4697-9809-32df054234c0.png">
+|:--:|:--:|:--:|
+| *`figure 1.4: Site Manager Dashboard`* | *`figure 1.4: New Order`* |*`figure 1.4: Summary of Order`* |
 
 | <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956477-dbbc9d80-1515-11eb-8930-3858fb54215b.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
 |:--:|:--:|
@@ -44,7 +47,7 @@ This is my individual part of the Case Study implementation of the 3rd Year 2nd 
 |:--:|:--:|
 | *`figure 1.7: Update and generate report of vehicle details`* | *`figure 1.8: Report of order details `* |
 
-## Available Scripts
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
