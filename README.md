@@ -29,7 +29,7 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 * View created invoices
 * Add delivery details
 
-#### Sample user interfaces of woring project:
+### Sample user interfaces of woring project:
 
 | <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/138205597-08911193-b42d-430e-9972-b1d9e8c4fa5d.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205745-3b9478a2-1242-4a65-9c78-72a175000335.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205897-e245c865-499d-458b-8550-a3b859a0cf5c.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png">
 |:--:|:--:|:--:|:--:|
@@ -39,9 +39,9 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 |:--:|:--:|:--:|:--:|
 | *`figure 1.5: New Order`* |*`figure 1.6: Summary of Order`* |*`figure 1.7: All Orders`* |*`figure 1.8: All Orders`* |
 
-| <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207187-ddac1ddd-a8c2-4d40-b578-ac460be7a32c.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207935-2d6171f5-8aac-4b93-b06b-1ac33bccfaae.png">
-|:--:|:--:|
-|*`figure 1.9: Delivery Details`* |*`figure 1.10: Make A Payment`* |
+| <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207187-ddac1ddd-a8c2-4d40-b578-ac460be7a32c.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207935-2d6171f5-8aac-4b93-b06b-1ac33bccfaae.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138208096-88ede3b5-8600-47bb-afa0-e6c1d8aaeaa1.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138208342-fdbbf1b1-39c9-4f78-b14b-e281ddbb25cf.png">
+|:--:|:--:|:--:|:--:|
+|*`figure 1.9: Delivery Details`* |*`figure 1.10: Make A Payment`* |*`figure 1.11: Supplier Dashboard`* |*`figure 1.12: View Quotations`* |
 
 
 <!-- ## Available Scripts
