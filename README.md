@@ -37,15 +37,12 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 
 | <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138206605-9f06f8be-f3ad-47e0-8fdc-bc0118cc4312.png">| <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138206741-da620513-9a27-4697-9809-32df054234c0.png">
 |:--:|:--:|:--:|
-| *`figure 1.4: Site Manager Dashboard`* | *`figure 1.4: New Order`* |*`figure 1.4: Summary of Order`* |
+| *`figure 1.4: Site Manager Dashboard`* | *`figure 1.5: New Order`* |*`figure 1.6: Summary of Order`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956477-dbbc9d80-1515-11eb-8930-3858fb54215b.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956647-52599b00-1516-11eb-854d-884518505ee3.png">
-|:--:|:--:|
-| *`figure 1.5: Vehicle details`* | *`figure 1.6: Add new vehicle`* |
+| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/138206986-dedae83a-f2f2-42eb-8f79-18df3f760b29.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207107-4d02d421-50d2-4eac-bbd4-8c8053956511.png">| <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/138207187-ddac1ddd-a8c2-4d40-b578-ac460be7a32c.png">
+|:--:|:--:|:--:|
+| *`figure 1.7: All Orders`* | *`figure 1.8: All Orders`* |*`figure 1.9: Delivery Details`* |
 
-| <img alt="2PNG"  src="https://user-images.githubusercontent.com/57215584/96956725-81700c80-1516-11eb-9f50-07cffa9dd3d7.png"> | <img  alt="2PNG" src="https://user-images.githubusercontent.com/57215584/96956804-ae242400-1516-11eb-8b2f-1b7161d01dc1.png">
-|:--:|:--:|
-| *`figure 1.7: Update and generate report of vehicle details`* | *`figure 1.8: Report of order details `* |
 
 <!-- ## Available Scripts
 
