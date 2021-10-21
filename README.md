@@ -1,5 +1,6 @@
 # 🏗 CSSE - Procurement Management System For Construction Industry
 
+## Introduction
 This is my individual part of the Case Study implementation of the 3rd Year 2nd Semester - Case Studies in Software Engineering (CSSE) module. Here we try to solve the difficulties faced in the procurement procedures in the construction industry. As a solution we have created a Web application and a mobile application, whereas this is a the `Mobile Application`, implemented with React-Native, NodeJS, ExpressJS and MongoDB.
 
 **Here I have implemented the part:** 
@@ -17,7 +18,7 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 * ![NodeJs](https://img.shields.io/badge/BackEnd-Node_JS-green) ![ExpressJs](https://img.shields.io/badge/BackEnd-Express_JS-green)
 * ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 
-### My Contribution:
+## My Contribution:
 * Login to the app as a `Site Manager` or `Supplier`
 * Register to the app as a `Site Manager` or `Supplier`
 * Create an Order by Site Manager 
@@ -29,7 +30,7 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 * View created invoices
 * Add delivery details
 
-### Sample user interfaces of woring project:
+## Screenshots of woring project:
 
 | <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/138205597-08911193-b42d-430e-9972-b1d9e8c4fa5d.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205745-3b9478a2-1242-4a65-9c78-72a175000335.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205897-e245c865-499d-458b-8550-a3b859a0cf5c.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png">
 |:--:|:--:|:--:|:--:|
