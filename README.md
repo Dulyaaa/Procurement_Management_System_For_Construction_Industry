@@ -55,16 +55,27 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 
 ## Configuration 
 
-#### APP DEVELOPMENT ENVIRONMENT SETUP (Frontend)
-  - Setting up android development environment [reference](https://reactnative.dev/docs/environment-setup) (One time setup)
+#### APP DEVELOPMENT ENVIRONMENT SETUP (Both Backend & Frontend)
+  - Setting up android development environment [reference](https://reactnative.dev/docs/environment-setup) (One time setup for frontend only)
   - npm module installation  
     - run ```npm install```
 
-#### APP DEVELOPMENT ENVIRONMENT SETUP (Backend)
+<!-- #### APP DEVELOPMENT ENVIRONMENT SETUP (Backend)
   - npm module installation  
-    - run ```npm install```
+    - run ```npm install``` -->
 
+#### STEPS TO RUN APP IN DEBUG MODE
+  - Windows
+    - ```npx react-native run-android```
+    - If any app build failure
+      - Clean gradle and run the project again ```cd android && gradlew clean```
+    - If any js bundle issues are occurred try one of the bellow steps
+      - Reset npm cache and run project again ```npx react-native start --reset-cache```
+      - If above didn't work, start separate js bundler and run project ```npx react-native start```
 
+  - Mac and Linux
+    - ```npx react-native run-android```
+    - If any app build or js bundler issues are occurred, follow the same steps for  **Windows**
 
 <!-- ## Available Scripts
 
