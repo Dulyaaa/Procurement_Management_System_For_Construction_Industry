@@ -53,16 +53,12 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 |:--:|:--:|
 |*`figure 1.1: Frontend Unit Testing`* |*`figure 1.2: Backend Unit Testing`* |
 
-## Configuration 
+## Configuration
 
 #### APP DEVELOPMENT ENVIRONMENT SETUP (Both Backend & Frontend)
   - Setting up android development environment [reference](https://reactnative.dev/docs/environment-setup) (One time setup for frontend only)
   - npm module installation  
     - run ```npm install```
-
-<!-- #### APP DEVELOPMENT ENVIRONMENT SETUP (Backend)
-  - npm module installation  
-    - run ```npm install``` -->
 
 #### STEPS TO RUN APP IN DEBUG MODE
   - Windows
