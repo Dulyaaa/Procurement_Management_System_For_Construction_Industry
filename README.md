@@ -31,7 +31,8 @@ Once a Site Manager add a purchase order, it should be sent for Procurement Depa
 
 ## Screenshots of working project:
 
-| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/138205597-08911193-b42d-430e-9972-b1d9e8c4fa5d.png"> |<img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205745-3b9478a2-1242-4a65-9c78-72a175000335.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205897-e245c865-499d-458b-8550-a3b859a0cf5c.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png">
+| <img alt="1PNG" src="https://user-images.githubusercontent.com/57215584/138205597-08911193-b42d-430e-9972-b1d9e8c4fa5d.png"> |<img  alt="2PNG" a src="![photo_6300607686705787099_y](https://user-images.githubusercontent.com/86770967/201162137-b8e6e329-dfaa-4200-88c3-95e666cb9e9b.jpg)
+">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138205897-e245c865-499d-458b-8550-a3b859a0cf5c.png">| <img  alt="2PNG" a src="https://user-images.githubusercontent.com/57215584/138206064-785c3402-26b7-4bea-841b-f3369bd88844.png">
 |:--:|:--:|:--:|:--:|
 | *`figure 1.1: Splash Screen`* | *`figure 1.2: Register Now Screen`* | *`figure 1.3: Log In Screen`* |*`figure 1.4: Site Manager Dashboard`* |
 
